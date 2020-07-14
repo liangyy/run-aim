@@ -1,0 +1,2 @@
+# run-aim
+Run AIM 
